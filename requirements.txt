@@ -1,0 +1,16 @@
+bitsandbytes
+sentence_transformers
+accelerate==0.21.0
+transformers==4.31.0
+tokenizers==0.13.3
+einops==0.6.1
+xformers==0.0.22.post7
+langchain==0.1.4
+chromadb
+FlagEmbedding
+streamlit_chat
+streamlit
+streamlit-option-menu
+pypdf2
+together
+pdfplumber
