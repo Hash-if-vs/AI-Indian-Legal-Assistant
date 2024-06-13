@@ -2,7 +2,7 @@
 # AI legal Assistant
 
 - This is an Indian legal Assistant application, where you can get your legal doubts cleared, empower yourself with legal knowledge, summarise case files and chat with your legal documents to aid your legal research. 
-- This application is powered by RAG with a knowledge base of Indian Union Government acts on top of llama-2-7b-chat model fine tuned on legal datasets
+- This application is powered by RAG with a knowledge base of Indian Union Government acts on top of llama-2-7b-chat model fine tuned on Indian legal datasets.
 
 
 ## Prerequisites
