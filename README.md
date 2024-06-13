@@ -6,9 +6,9 @@
 
 
 ## Prerequisites
+- Install Python 3.10 or above.
 - Install cuda drivers to access gpu if you are running on your local machine.
 - You can also run this on cpu by tweaking the code a bit, try to find the 'device' variable inside the code and make its value to 'cpu'.
-- Install Python
 ## Usage
  ### 1. Clone the repo
  Open your terminal and clone the repository by :
