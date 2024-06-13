@@ -5,7 +5,7 @@
 - This application is powered by RAG with a knowledge base of Indian Union Government acts on top of llama-2-7b-chat model fine tuned on legal datasets
 
 
-##Prerequisites
+## Prerequisites
 Install cuda drivers to access gpu if you are running on your local machine.
 Make sure python is installed 
 ## Usage
