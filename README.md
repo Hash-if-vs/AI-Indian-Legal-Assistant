@@ -38,7 +38,7 @@ Navigate to the src folder of your project in the terminal:
 ### 6. Run preprocessing.py
 Before running preprocessing.py, ensure you have specified the path to your data directory and the location to store the vector database within the script.
  ### 7. Run initializer.py
-- After preprocessing, Create an account in together.ai to access their api key,make sure "together_api_key" variable is set.(An api is used here for accessing llms with large context length for summarisation of huge case files, you can always avoid this by alternatively using any local llms for summarisation)
+- After preprocessing, Create an account in together.ai to access their api key,make sure "together_api_key" variable is set (An api is used here for accessing llms with large context length for summarisation of huge case files, you can always avoid this by alternatively using any local llms for summarisation)
 - Run initializer.py by specifying the path to your vector database:
 
 ### 8. Run the application
